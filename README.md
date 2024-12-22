@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cry_flex
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Torn_Effect
+>>>>>>> 28533c6814bdd82defae3c11d1a44746fb9a0a89
