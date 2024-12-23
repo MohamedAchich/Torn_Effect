@@ -15,29 +15,33 @@ A Flutter mobile application that demonstrates the **Torn Effect**, a visually s
 
 ### Installation
 1. Clone the repository:
+
     git clone https://github.com/MohamedAchich/Torn_Effect.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+
     cd Torn_Effect
 
-3. Fetch the dependencies:
+4. Fetch the dependencies:
+
     flutter pub get
 
-### Running the App
+## Running the App
 1. Connect a physical device or start an emulator.
 2. Run the app:
+
     flutter run
 
-### Screenshots
+## Screenshots
 ![Torn Effect Screenshot](https://github.com/user-attachments/assets/77a4ea67-38e1-4db1-bc62-7a7c245e5447)
 
-### Contributions
+## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-### License
+## License
 This project is licensed under the MIT License.
 
-### Contact
+## Contact
 For questions or suggestions, feel free to reach out:
 
 Author: Mohamed Achich
