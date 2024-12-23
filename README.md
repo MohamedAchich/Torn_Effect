@@ -33,6 +33,8 @@ A Flutter mobile application that demonstrates the **Torn Effect**, a visually s
     flutter run
 
 ## Screenshots
+![Torn Effect Screenshot](https://github.com/user-attachments/assets/d47cdd83-6501-48d2-9349-b186feb96801)
+![Torn Effect Screenshot](https://github.com/user-attachments/assets/9d4172cd-f803-43f4-8ed6-093c41082401)
 ![Torn Effect Screenshot](https://github.com/user-attachments/assets/77a4ea67-38e1-4db1-bc62-7a7c245e5447)
 
 ## Contributions
